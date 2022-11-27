@@ -7,6 +7,7 @@ import {
   default as IconBitBox02WithBorder,
 } from 'ui/assets/walletlogo/bitbox.svg';
 import IconCobo from 'ui/assets/walletlogo/cobo.svg';
+import ExzoLogo from 'ui/assets/walletlogo/exzologo.png';
 import LogoCobo from 'ui/assets/walletlogo/cobo.svg';
 import IconFireblocksWithBorder from 'ui/assets/walletlogo/fireblocks.svg';
 import IconFireblocks from 'ui/assets/walletlogo/fireblocks.svg';
